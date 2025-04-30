@@ -1,0 +1,13 @@
+{
+    "extensions": {
+        "js": true,
+        "ts": true,
+        "json": true,
+        "html": true,
+        "css": true,
+        "scss": true,
+        "less": true,
+        "md": true,
+        "hds": true
+    }
+}
